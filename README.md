@@ -1,5 +1,5 @@
 # コマンドプロンプトを使用し
 
 ### githubにpushできるかの挑戦　それだけです...
-"# GitPlactice" 
-"# GitPlactice" 
+
+なるほど　理解できましたね
